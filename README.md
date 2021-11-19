@@ -5,6 +5,7 @@
 - Install NodeJS 16
 - Clone the repo ```https://github.com/shanepaton/gitfetch```
 - Extract to your folder of choice
+- Make a copy of ```example.conf``` and name it ```conf.toml``` then put your info in.
 - Install the dependencies ```npm install```
 - Run ```node index.js``` with your username/id and your platform
 
