@@ -1,0 +1,19 @@
+# Default Username
+
+# github
+githubUsername = "shanepaton"
+gitlabId = ""
+
+
+gitlabToken = "glpat-T4EXHfT-2Ypnef2kzVYz"
+
+# (github / gitlab)
+defaultSite = "gitlab"
+
+[prefs]
+# (true / false)
+noColor = false
+
+
+
+  

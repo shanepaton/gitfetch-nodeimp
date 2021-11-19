@@ -1,0 +1,21 @@
+{
+  "name": "ghfetch-nodeimp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": {
+    "name": "shanepaton"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ght": "node index.js shanepaton --gh",
+    "glt": "node index.js 10239709 --gl",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.1.0",
+    "toml": "^3.0.0"
+  }
+}
