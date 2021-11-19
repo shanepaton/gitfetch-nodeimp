@@ -1,16 +1,11 @@
-# Default Username
+# Github Username
 githubUsername = "shanepaton"
-gitlabId = "1"
 
-gitlabToken = "glpat-T4EXHfT-2Ypnef2kzVYz"
+# Gitlab ID
+gitlabId = "10239709"
+
+# Insert Gitlab Personal Access Token here
+gitlabToken = "glpat---JEyXTMFqTZCPgM3Mzs"
 
 # (github / gitlab)
-defaultSite = "github"
-
-[prefs]
-# (true / false)
-noColor = false
-
-
-
-  
+defaultSite = "gitlab"
