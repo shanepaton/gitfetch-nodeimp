@@ -34,4 +34,4 @@ defaultSite = ""
 
 If you run the program with out specifying the Username/ID and the Platform it will try to use the one from the ```conf.toml```.
 
-gitfetch is created using the MIT Licence
+gitfetch is created by Shane Paton under the MIT Licence
