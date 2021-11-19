@@ -2,7 +2,7 @@
 ### gitfetch is a CLI tool that can fetch your Github or Gitlab profile
 
 ## Setting up
-- Install NodeJS 16
+- Install Node.JS 16
 - Clone the repo ```https://github.com/shanepaton/gitfetch```
 - Extract to your folder of choice
 - Make a copy of ```example.conf``` and name it ```conf.toml``` then put your info in.
